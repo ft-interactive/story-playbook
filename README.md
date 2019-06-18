@@ -4,6 +4,8 @@ The Financial Times has created a set of digital story templates to help its rep
 
 The templates are built directly into our content management system, but the principles and thinking behind them are widely applicable for other newsrooms.
 
+Read more about how and why we created these templates at [Source Opennews](https://source.opennews.org/articles/story-templates-financial-times-reusable/)
+
 There are five Story Playbook templates:
 
 ### [Profile Cards](https://github.com/ft-interactive/story-playbook/blob/master/FT%20Story%20Playbook_%20Profile%20Card%20Story.pdf)
