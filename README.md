@@ -6,7 +6,7 @@ The templates are built directly into our content management system, but the pri
 
 Read more about how and why we created these templates at [Source Opennews](https://source.opennews.org/articles/story-templates-financial-times-reusable/)
 
-There are five Story Playbook templates:
+There are six Story Playbook templates:
 
 ### [Profile Cards](https://github.com/ft-interactive/story-playbook/blob/master/FT%20Story%20Playbook_%20Profile%20Card%20Story.pdf)
 _An article that introduces a group of people or other entities to the reader_
@@ -32,6 +32,11 @@ Example: [Are British universities worth the cost? FT readers respond](https://w
 _An article that lets readers see what has happened_
 
 Example: [Tokyo’s legendary Tsukiji fish market closes](https://www.ft.com/content/325bcb3e-c662-11e8-ba8f-ee390057b8c9)
+
+### [Animated Explainers](https://github.com/ft-interactive/story-playbook/blob/master/FT%20Story%20Playbook_%20Animated%20Explainers.pdf)
+_A short video that explains a concept or a series of events_
+
+Example: [Uber IPO: Company banking on diversification](https://www.ft.com/video/16b4911d-ff6d-4736-923b-ed844660900b)
 
 <hr>
 
